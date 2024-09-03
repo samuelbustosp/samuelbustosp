@@ -1,5 +1,12 @@
-## Hi there 👋
+# Hey, I'm Samuel Bustos 👋
 
+Welcome to my GitHub! I'm Samuel, an advanced Information Systems Engineering student at the National Technological University in Villa María.
+
+### A little about me
+- 🎓 Studying **Information Systems Engineering**.
+- 🏫 At **National Technological University, Villa María**.
+- 💻 I’m into **React JS** and **Front-End Development**.
+- 💡 Passionate about engineering, teamwork, and creativity.
 <!--
 **samuelbustosp/samuelbustosp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
